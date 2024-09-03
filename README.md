@@ -1,7 +1,7 @@
 # target-sistemas-estagio
 Resolution for Target Sistemas's questions.
 
-Observações: Na questão três evitei utilizar funções prontas como min() e max() levando em conta a recomendação da questão cinco de não utilizar o reverse. Além disso, pela questão entendi que ia ser disponibilizado a lista em json, porém, como não tinha, inventei uma com base neste mês de setembro.
+Observações: Na questão três evitei utilizar funções prontas como min() e max() levando em conta a recomendação da questão cinco de não utilizar o reverse.
 
 QUESTÕES:
 
